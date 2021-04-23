@@ -1,0 +1,4 @@
+#Thu Apr 22 15:11:55 PDT 2021
+base.0=/Users/kargna/Developer/CSE120/patient_logger/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

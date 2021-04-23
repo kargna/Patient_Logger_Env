@@ -1,0 +1,26 @@
+name: patient_logger
+description: A new Flutter project.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  intl: ^0.17.0
+  numberpicker: ^2.1.1
+  flutter_icons: ^1.1.0
+  sqflite: ^2.0.0+3
+  path_provider: ^2.0.1
+  weekday_selector_formfield: ^1.0.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
